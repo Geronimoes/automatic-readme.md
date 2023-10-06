@@ -1,4 +1,4 @@
-# Workbench
+# Instruction on automatic table of contents (Workbench)
 
 ![Stable Diffusion illustration of a wizard's cluttered workshop](193496338_surrealist__illustration_of_a_workbench_cluttered_with_colorful_objects_and_items_representing_the_u.png)
 
